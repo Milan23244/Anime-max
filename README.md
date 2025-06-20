@@ -1,2 +1,2 @@
-# Anime-max
+`auto-anime-nexus`
 Hi
